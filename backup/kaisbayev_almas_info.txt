@@ -1,5 +1,5 @@
-Name: Almas 
+Name: Almas
 Surname: Kaisbayev
-Group: IT2-2306 
+Group: IT2-2306
 Student ID: 37388
-Course: DevOps 
+Course: DevOps
