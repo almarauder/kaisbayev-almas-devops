@@ -37,8 +37,8 @@ pipeline {
                     # Check that important files exist
                     test -f Dockerfile
                     test -f docker-compose.yml
-                    test -f scripts/YourSurname_YourName_system.sh
-                    test -f YourSurname_YourName_info.txt
+                    test -f scripts/kaisbayev_almas_system.sh
+                    test -f kaisbayev_almas_info.txt
                     echo "All required files are present. Tests passed!"
                 '''
             }
