@@ -1,0 +1,4 @@
+Name: Almas
+Surname: Kaisbayev
+Group: IT2-2306
+Student ID: 37388
