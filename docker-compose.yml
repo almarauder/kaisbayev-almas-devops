@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  devops-app:
+    build: .
+    image: kaisbayev-almas-devops
+    container_name: kaisbayev-almas-container
+    environment:
+      - STUDENT_NAME=Almas
+      - STUDENT_SURNAME=Kaisbayev
+      - STUDENT_GROUP=IT2-2306
+      - STUDENT_ID=37388
+    ports:
+      - "8080:8080"
